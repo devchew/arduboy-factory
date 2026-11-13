@@ -1,0 +1,3076 @@
+{
+  "id": "5z3o57thc",
+  "name": "New Project",
+  "items": [
+    {
+      "id": "43gd0vzvn",
+      "name": "sprites",
+      "type": "folder",
+      "children": [
+        {
+          "id": "zdkaamkll",
+          "name": "ore-coal",
+          "type": "sprite",
+          "parentId": "43gd0vzvn",
+          "spriteData": {
+            "id": "mlqfda0ff",
+            "name": "ore",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                true,
+                true,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "128xi5cno",
+          "name": "miner",
+          "type": "sprite",
+          "parentId": "43gd0vzvn",
+          "spriteData": {
+            "id": "0xyu4hjya",
+            "name": "miner",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                true
+              ],
+              [
+                true,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "2mv6fc1kt",
+          "name": "ore Copy",
+          "type": "sprite",
+          "parentId": "43gd0vzvn",
+          "spriteData": {
+            "id": "dvb37fjra",
+            "name": "ore Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                true
+              ],
+              [
+                true,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                true
+              ],
+              [
+                true,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                true
+              ],
+              [
+                true,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            ]
+          }
+        },
+        {
+          "id": "ks0vdwln5",
+          "name": "ore-iron",
+          "type": "sprite",
+          "parentId": "43gd0vzvn",
+          "spriteData": {
+            "id": "5cavnqz83",
+            "name": "ore Copy-1",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                true,
+                true,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "y0f2uwn8w",
+          "name": "mini ore",
+          "type": "sprite",
+          "parentId": "43gd0vzvn",
+          "spriteData": {
+            "id": "g3fpm13g0",
+            "name": "mini ore",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                true,
+                true,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                true,
+                true,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        }
+      ],
+      "isExpanded": true
+    },
+    {
+      "id": "0efocbwip",
+      "name": "screens",
+      "type": "folder",
+      "children": [],
+      "isExpanded": true
+    },
+    {
+      "id": "6qxf4s2r9",
+      "name": "compositions",
+      "type": "folder",
+      "children": [
+        {
+          "id": "7hb53kfrt",
+          "name": "demo-sprites",
+          "type": "composition",
+          "parentId": "6qxf4s2r9",
+          "compositionData": {
+            "id": "q3ryu9uhp",
+            "name": "New Composition",
+            "width": 256,
+            "height": 256,
+            "layers": [
+              {
+                "id": "jzc32pq34",
+                "spriteId": "zdkaamkll",
+                "x": 8,
+                "y": 8,
+                "zIndex": 0,
+                "visible": true
+              },
+              {
+                "id": "dovrtx6bu",
+                "spriteId": "zdkaamkll",
+                "x": 16,
+                "y": 8,
+                "zIndex": 1,
+                "visible": true
+              },
+              {
+                "id": "dszxsbxod",
+                "spriteId": "zdkaamkll",
+                "x": 24,
+                "y": 8,
+                "zIndex": 2,
+                "visible": true
+              },
+              {
+                "id": "huxywmcnb",
+                "spriteId": "zdkaamkll",
+                "x": 32,
+                "y": 8,
+                "zIndex": 3,
+                "visible": true
+              },
+              {
+                "id": "aqkcx10fj",
+                "spriteId": "zdkaamkll",
+                "x": 16,
+                "y": 16,
+                "zIndex": 4,
+                "visible": true
+              },
+              {
+                "id": "ohabivxzo",
+                "spriteId": "zdkaamkll",
+                "x": 24,
+                "y": 16,
+                "zIndex": 5,
+                "visible": true
+              },
+              {
+                "id": "pvqw8ca5h",
+                "spriteId": "zdkaamkll",
+                "x": 8,
+                "y": 24,
+                "zIndex": 6,
+                "visible": true
+              },
+              {
+                "id": "d321eyj85",
+                "spriteId": "zdkaamkll",
+                "x": 16,
+                "y": 24,
+                "zIndex": 7,
+                "visible": true
+              },
+              {
+                "id": "if82xm5as",
+                "spriteId": "zdkaamkll",
+                "x": 16,
+                "y": 32,
+                "zIndex": 8,
+                "visible": true
+              },
+              {
+                "id": "6l2y4y7c1",
+                "spriteId": "zdkaamkll",
+                "x": 32,
+                "y": 16,
+                "zIndex": 9,
+                "visible": true
+              },
+              {
+                "id": "2ts9izh5z",
+                "spriteId": "zdkaamkll",
+                "x": 24,
+                "y": 24,
+                "zIndex": 10,
+                "visible": true
+              },
+              {
+                "id": "8bzt413rf",
+                "spriteId": "zdkaamkll",
+                "x": 32,
+                "y": 24,
+                "zIndex": 11,
+                "visible": true
+              },
+              {
+                "id": "3r2w3cebj",
+                "spriteId": "zdkaamkll",
+                "x": 40,
+                "y": 16,
+                "zIndex": 12,
+                "visible": true
+              },
+              {
+                "id": "fko7t9puw",
+                "spriteId": "zdkaamkll",
+                "x": 24,
+                "y": 32,
+                "zIndex": 13,
+                "visible": true
+              },
+              {
+                "id": "boxwa4h77",
+                "spriteId": "ks0vdwln5",
+                "x": 80,
+                "y": 8,
+                "zIndex": 14,
+                "visible": true
+              },
+              {
+                "id": "csv5huinf",
+                "spriteId": "ks0vdwln5",
+                "x": 88,
+                "y": 8,
+                "zIndex": 15,
+                "visible": true
+              },
+              {
+                "id": "ut5489jwy",
+                "spriteId": "ks0vdwln5",
+                "x": 88,
+                "y": 16,
+                "zIndex": 16,
+                "visible": true
+              },
+              {
+                "id": "itavfpag0",
+                "spriteId": "ks0vdwln5",
+                "x": 80,
+                "y": 24,
+                "zIndex": 17,
+                "visible": true
+              },
+              {
+                "id": "bbd1v4urj",
+                "spriteId": "ks0vdwln5",
+                "x": 88,
+                "y": 24,
+                "zIndex": 18,
+                "visible": true
+              },
+              {
+                "id": "2xibkr5ik",
+                "spriteId": "ks0vdwln5",
+                "x": 96,
+                "y": 16,
+                "zIndex": 19,
+                "visible": true
+              },
+              {
+                "id": "zzz9x0dxd",
+                "spriteId": "ks0vdwln5",
+                "x": 96,
+                "y": 24,
+                "zIndex": 20,
+                "visible": true
+              },
+              {
+                "id": "xd8xawx1b",
+                "spriteId": "ks0vdwln5",
+                "x": 88,
+                "y": 32,
+                "zIndex": 21,
+                "visible": true
+              },
+              {
+                "id": "sl3uufmew",
+                "spriteId": "ks0vdwln5",
+                "x": 104,
+                "y": 24,
+                "zIndex": 22,
+                "visible": true
+              },
+              {
+                "id": "t8svoz1xt",
+                "spriteId": "ks0vdwln5",
+                "x": 104,
+                "y": 16,
+                "zIndex": 23,
+                "visible": true
+              },
+              {
+                "id": "usf7dwcz4",
+                "spriteId": "q55ipt1es",
+                "x": 56,
+                "y": 96,
+                "zIndex": 24,
+                "visible": true
+              },
+              {
+                "id": "8bgkrkm2h",
+                "spriteId": "q55ipt1es",
+                "x": 56,
+                "y": 104,
+                "zIndex": 25,
+                "visible": true
+              },
+              {
+                "id": "01kyw0l2s",
+                "spriteId": "q55ipt1es",
+                "x": 40,
+                "y": 120,
+                "zIndex": 26,
+                "visible": true
+              },
+              {
+                "id": "t2ufsndkg",
+                "spriteId": "q55ipt1es",
+                "x": 224,
+                "y": 160,
+                "zIndex": 27,
+                "visible": true
+              },
+              {
+                "id": "fdjf936dh",
+                "spriteId": "q55ipt1es",
+                "x": 168,
+                "y": 160,
+                "zIndex": 28,
+                "visible": true
+              },
+              {
+                "id": "ojwgmu7rb",
+                "spriteId": "q55ipt1es",
+                "x": 56,
+                "y": 136,
+                "zIndex": 29,
+                "visible": true
+              },
+              {
+                "id": "yqdmcs8bh",
+                "spriteId": "q55ipt1es",
+                "x": 56,
+                "y": 144,
+                "zIndex": 30,
+                "visible": true
+              },
+              {
+                "id": "ghghb56vd",
+                "spriteId": "q55ipt1es",
+                "x": 56,
+                "y": 152,
+                "zIndex": 31,
+                "visible": true
+              },
+              {
+                "id": "9nzbypao7",
+                "spriteId": "zdlyjsjtg",
+                "x": 112,
+                "y": 128,
+                "zIndex": 32,
+                "visible": true
+              },
+              {
+                "id": "iycuw33qt",
+                "spriteId": "zdlyjsjtg",
+                "x": 112,
+                "y": 136,
+                "zIndex": 33,
+                "visible": true
+              },
+              {
+                "id": "1xjdep09n",
+                "spriteId": "zdlyjsjtg",
+                "x": 112,
+                "y": 144,
+                "zIndex": 34,
+                "visible": true
+              },
+              {
+                "id": "h0yrku2s7",
+                "spriteId": "zdlyjsjtg",
+                "x": 112,
+                "y": 152,
+                "zIndex": 35,
+                "visible": true
+              },
+              {
+                "id": "cz7cr9zvk",
+                "spriteId": "j0kkevuhm",
+                "x": 104,
+                "y": 160,
+                "zIndex": 36,
+                "visible": true
+              },
+              {
+                "id": "2dhp7h1i4",
+                "spriteId": "j0kkevuhm",
+                "x": 96,
+                "y": 160,
+                "zIndex": 37,
+                "visible": true
+              },
+              {
+                "id": "n4k7cyzdd",
+                "spriteId": "j0kkevuhm",
+                "x": 88,
+                "y": 160,
+                "zIndex": 38,
+                "visible": true
+              },
+              {
+                "id": "sh9jra4l0",
+                "spriteId": "j0kkevuhm",
+                "x": 80,
+                "y": 160,
+                "zIndex": 39,
+                "visible": true
+              },
+              {
+                "id": "sq74fysz7",
+                "spriteId": "j0kkevuhm",
+                "x": 72,
+                "y": 160,
+                "zIndex": 40,
+                "visible": true
+              },
+              {
+                "id": "ilo4s0hs9",
+                "spriteId": "j0kkevuhm",
+                "x": 64,
+                "y": 160,
+                "zIndex": 41,
+                "visible": true
+              },
+              {
+                "id": "x8ifpcjw8",
+                "spriteId": "8qqs5zif0",
+                "x": 64,
+                "y": 88,
+                "zIndex": 42,
+                "visible": true
+              },
+              {
+                "id": "q37n8jcif",
+                "spriteId": "8qqs5zif0",
+                "x": 72,
+                "y": 88,
+                "zIndex": 43,
+                "visible": true
+              },
+              {
+                "id": "pb0wungdd",
+                "spriteId": "8qqs5zif0",
+                "x": 80,
+                "y": 88,
+                "zIndex": 44,
+                "visible": true
+              },
+              {
+                "id": "y7ttzrqnm",
+                "spriteId": "8qqs5zif0",
+                "x": 104,
+                "y": 120,
+                "zIndex": 45,
+                "visible": true
+              },
+              {
+                "id": "8y5ym8pys",
+                "spriteId": "8qqs5zif0",
+                "x": 96,
+                "y": 120,
+                "zIndex": 46,
+                "visible": true
+              },
+              {
+                "id": "5m7eqovcf",
+                "spriteId": "zdlyjsjtg",
+                "x": 88,
+                "y": 112,
+                "zIndex": 47,
+                "visible": true
+              },
+              {
+                "id": "7fwndb7tn",
+                "spriteId": "zdlyjsjtg",
+                "x": 88,
+                "y": 104,
+                "zIndex": 48,
+                "visible": true
+              },
+              {
+                "id": "goagc9pnf",
+                "spriteId": "zdlyjsjtg",
+                "x": 88,
+                "y": 96,
+                "zIndex": 49,
+                "visible": true
+              },
+              {
+                "id": "ewpfr1641",
+                "spriteId": "bcbxtw2p1",
+                "x": 40,
+                "y": 112,
+                "zIndex": 50,
+                "visible": true
+              },
+              {
+                "id": "iwueqbgfi",
+                "spriteId": "j0kkevuhm",
+                "x": 48,
+                "y": 112,
+                "zIndex": 51,
+                "visible": true
+              },
+              {
+                "id": "jrjkrcc8c",
+                "spriteId": "zdlyjsjtg",
+                "x": 48,
+                "y": 32,
+                "zIndex": 52,
+                "visible": true
+              },
+              {
+                "id": "wkvxjtkom",
+                "spriteId": "53adrr2um",
+                "x": 56,
+                "y": 112,
+                "zIndex": 53,
+                "visible": true
+              },
+              {
+                "id": "shmw0j7e6",
+                "spriteId": "x6hizok8t",
+                "x": 56,
+                "y": 160,
+                "zIndex": 54,
+                "visible": true
+              },
+              {
+                "id": "4vtr0tafd",
+                "spriteId": "bh7pqvf69",
+                "x": 56,
+                "y": 128,
+                "zIndex": 55,
+                "visible": true
+              },
+              {
+                "id": "huhauliox",
+                "spriteId": "bh7pqvf69",
+                "x": 88,
+                "y": 88,
+                "zIndex": 56,
+                "visible": true
+              },
+              {
+                "id": "baqcc9l14",
+                "spriteId": "bh7pqvf69",
+                "x": 112,
+                "y": 120,
+                "zIndex": 57,
+                "visible": true
+              },
+              {
+                "id": "zn7898g93",
+                "spriteId": "53adrr2um",
+                "x": 112,
+                "y": 160,
+                "zIndex": 58,
+                "visible": true
+              },
+              {
+                "id": "yiatz48j8",
+                "spriteId": "bcbxtw2p1",
+                "x": 56,
+                "y": 88,
+                "zIndex": 59,
+                "visible": true
+              },
+              {
+                "id": "vwp4guem1",
+                "spriteId": "x6hizok8t",
+                "x": 88,
+                "y": 120,
+                "zIndex": 60,
+                "visible": true
+              },
+              {
+                "id": "ont1od9qr",
+                "spriteId": "j0kkevuhm",
+                "x": 48,
+                "y": 128,
+                "zIndex": 61,
+                "visible": true
+              },
+              {
+                "id": "yu6w8dl9l",
+                "spriteId": "x6hizok8t",
+                "x": 40,
+                "y": 128,
+                "zIndex": 62,
+                "visible": true
+              },
+              {
+                "id": "oyozvwlgp",
+                "spriteId": "y0f2uwn8w",
+                "x": 56,
+                "y": 16,
+                "zIndex": 63,
+                "visible": true
+              },
+              {
+                "id": "e7fu0fjyo",
+                "spriteId": "128xi5cno",
+                "x": 40,
+                "y": 24,
+                "zIndex": 64,
+                "visible": true
+              },
+              {
+                "id": "441bwezuf",
+                "spriteId": "bh7pqvf69",
+                "x": 48,
+                "y": 24,
+                "zIndex": 65,
+                "visible": true
+              },
+              {
+                "id": "lgop8dmms",
+                "spriteId": "zdlyjsjtg",
+                "x": 48,
+                "y": 40,
+                "zIndex": 66,
+                "visible": true
+              },
+              {
+                "id": "g9gfrr421",
+                "spriteId": "128xi5cno",
+                "x": 40,
+                "y": 8,
+                "zIndex": 67,
+                "visible": true
+              },
+              {
+                "id": "3339zfen5",
+                "spriteId": "8qqs5zif0",
+                "x": 48,
+                "y": 8,
+                "zIndex": 68,
+                "visible": true
+              },
+              {
+                "id": "vfk5ktj8y",
+                "spriteId": "bh7pqvf69",
+                "x": 56,
+                "y": 8,
+                "zIndex": 69,
+                "visible": true
+              },
+              {
+                "id": "v7vg7sffv",
+                "spriteId": "zdlyjsjtg",
+                "x": 56,
+                "y": 16,
+                "zIndex": 70,
+                "visible": true
+              },
+              {
+                "id": "yh47da2ux",
+                "spriteId": "zdlyjsjtg",
+                "x": 56,
+                "y": 24,
+                "zIndex": 71,
+                "visible": true
+              },
+              {
+                "id": "qpl1ahyuf",
+                "spriteId": "zdlyjsjtg",
+                "x": 56,
+                "y": 32,
+                "zIndex": 72,
+                "visible": true
+              },
+              {
+                "id": "q8fvx3iab",
+                "spriteId": "pl30z0ess",
+                "x": 192,
+                "y": 152,
+                "zIndex": 73,
+                "visible": true
+              },
+              {
+                "id": "23s76x3va",
+                "spriteId": "nm5i8ho7y",
+                "x": 168,
+                "y": 152,
+                "zIndex": 74,
+                "visible": true
+              },
+              {
+                "id": "zik25rwcv",
+                "spriteId": "m8bxyphpt",
+                "x": 224,
+                "y": 152,
+                "zIndex": 75,
+                "visible": true
+              },
+              {
+                "id": "tz0ag3wg2",
+                "spriteId": "fve6uh1hd",
+                "x": 192,
+                "y": 128,
+                "zIndex": 76,
+                "visible": true
+              },
+              {
+                "id": "wm9aeo5m8",
+                "spriteId": "zdlyjsjtg",
+                "x": 192,
+                "y": 144,
+                "zIndex": 77,
+                "visible": true
+              },
+              {
+                "id": "2of2yqchc",
+                "spriteId": "zdlyjsjtg",
+                "x": 192,
+                "y": 136,
+                "zIndex": 78,
+                "visible": true
+              },
+              {
+                "id": "60km56n0n",
+                "spriteId": "zdlyjsjtg",
+                "x": 192,
+                "y": 120,
+                "zIndex": 79,
+                "visible": true
+              },
+              {
+                "id": "aeudlyzif",
+                "spriteId": "zdlyjsjtg",
+                "x": 192,
+                "y": 112,
+                "zIndex": 80,
+                "visible": true
+              },
+              {
+                "id": "x1upy9beu",
+                "spriteId": "bh7pqvf69",
+                "x": 192,
+                "y": 104,
+                "zIndex": 81,
+                "visible": true
+              },
+              {
+                "id": "q312tqcwx",
+                "spriteId": "8qqs5zif0",
+                "x": 184,
+                "y": 104,
+                "zIndex": 82,
+                "visible": true
+              },
+              {
+                "id": "w5fcsaqjh",
+                "spriteId": "8qqs5zif0",
+                "x": 184,
+                "y": 128,
+                "zIndex": 83,
+                "visible": true
+              },
+              {
+                "id": "ud8jiv0zf",
+                "spriteId": "128xi5cno",
+                "x": 176,
+                "y": 104,
+                "zIndex": 84,
+                "visible": true
+              },
+              {
+                "id": "xx014g5w4",
+                "spriteId": "128xi5cno",
+                "x": 176,
+                "y": 128,
+                "zIndex": 85,
+                "visible": true
+              },
+              {
+                "id": "r2u6xge9g",
+                "spriteId": "j0kkevuhm",
+                "x": 200,
+                "y": 152,
+                "zIndex": 86,
+                "visible": true
+              },
+              {
+                "id": "xoc5a5mgh",
+                "spriteId": "j0kkevuhm",
+                "x": 184,
+                "y": 152,
+                "zIndex": 87,
+                "visible": true
+              },
+              {
+                "id": "ychfdis7p",
+                "spriteId": "j0kkevuhm",
+                "x": 176,
+                "y": 152,
+                "zIndex": 88,
+                "visible": true
+              },
+              {
+                "id": "pgiwui3hv",
+                "spriteId": "j0kkevuhm",
+                "x": 208,
+                "y": 152,
+                "zIndex": 89,
+                "visible": true
+              },
+              {
+                "id": "qjca8wpvm",
+                "spriteId": "j0kkevuhm",
+                "x": 216,
+                "y": 152,
+                "zIndex": 90,
+                "visible": true
+              },
+              {
+                "id": "wtj5gd2gr",
+                "spriteId": "53adrr2um",
+                "x": 232,
+                "y": 152,
+                "zIndex": 91,
+                "visible": true
+              },
+              {
+                "id": "89kbuftbo",
+                "spriteId": "zdlyjsjtg",
+                "x": 232,
+                "y": 144,
+                "zIndex": 92,
+                "visible": true
+              },
+              {
+                "id": "j1uslmeic",
+                "spriteId": "q55ipt1es",
+                "x": 168,
+                "y": 144,
+                "zIndex": 93,
+                "visible": true
+              },
+              {
+                "id": "iy68zypxb",
+                "spriteId": "pl30z0ess",
+                "x": 224,
+                "y": 168,
+                "zIndex": 94,
+                "visible": true
+              },
+              {
+                "id": "9xfmbrl4u",
+                "spriteId": "j0kkevuhm",
+                "x": 144,
+                "y": 192,
+                "zIndex": 95,
+                "visible": true
+              },
+              {
+                "id": "87wh1ldm9",
+                "spriteId": "9gm49mohb",
+                "x": 136,
+                "y": 192,
+                "zIndex": 96,
+                "visible": true
+              },
+              {
+                "id": "ypgcvij8e",
+                "spriteId": "zdlyjsjtg",
+                "x": 136,
+                "y": 200,
+                "zIndex": 97,
+                "visible": true
+              },
+              {
+                "id": "kojke8440",
+                "spriteId": "q55ipt1es",
+                "x": 136,
+                "y": 184,
+                "zIndex": 98,
+                "visible": true
+              },
+              {
+                "id": "fbrn0c7nf",
+                "spriteId": "d63i8uire",
+                "x": 160,
+                "y": 224,
+                "zIndex": 99,
+                "visible": true
+              },
+              {
+                "id": "tyqafoh90",
+                "spriteId": "8qqs5zif0",
+                "x": 152,
+                "y": 224,
+                "zIndex": 100,
+                "visible": true
+              },
+              {
+                "id": "j0spmxjva",
+                "spriteId": "8qqs5zif0",
+                "x": 144,
+                "y": 224,
+                "zIndex": 101,
+                "visible": true
+              },
+              {
+                "id": "62jo5ex5p",
+                "spriteId": "q55ipt1es",
+                "x": 160,
+                "y": 216,
+                "zIndex": 102,
+                "visible": true
+              },
+              {
+                "id": "jn4ov334p",
+                "spriteId": "zdlyjsjtg",
+                "x": 160,
+                "y": 232,
+                "zIndex": 103,
+                "visible": true
+              },
+              {
+                "id": "aaiayr0lw",
+                "spriteId": "ri4i4s31a",
+                "x": 128,
+                "y": 224,
+                "zIndex": 104,
+                "visible": true
+              },
+              {
+                "id": "s5w58sw4v",
+                "spriteId": "bcbxtw2p1",
+                "x": 128,
+                "y": 208,
+                "zIndex": 105,
+                "visible": true
+              },
+              {
+                "id": "sxvym7i4p",
+                "spriteId": "zdlyjsjtg",
+                "x": 128,
+                "y": 216,
+                "zIndex": 106,
+                "visible": true
+              },
+              {
+                "id": "i31ir15vs",
+                "spriteId": "8qqs5zif0",
+                "x": 136,
+                "y": 224,
+                "zIndex": 107,
+                "visible": true
+              },
+              {
+                "id": "y55z98nep",
+                "spriteId": "j0kkevuhm",
+                "x": 120,
+                "y": 224,
+                "zIndex": 108,
+                "visible": true
+              },
+              {
+                "id": "ou17sbn0y",
+                "spriteId": "bcbxtw2p1",
+                "x": 160,
+                "y": 208,
+                "zIndex": 109,
+                "visible": true
+              },
+              {
+                "id": "w5uazavps",
+                "spriteId": "8qqs5zif0",
+                "x": 168,
+                "y": 208,
+                "zIndex": 110,
+                "visible": true
+              },
+              {
+                "id": "yxvm0dy3t",
+                "spriteId": "8qqs5zif0",
+                "x": 224,
+                "y": 136,
+                "zIndex": 111,
+                "visible": true
+              },
+              {
+                "id": "3gf42ki9o",
+                "spriteId": "8qqs5zif0",
+                "x": 152,
+                "y": 176,
+                "zIndex": 112,
+                "visible": true
+              },
+              {
+                "id": "kqqet8agz",
+                "spriteId": "x6hizok8t",
+                "x": 160,
+                "y": 240,
+                "zIndex": 113,
+                "visible": true
+              },
+              {
+                "id": "j29cc204k",
+                "spriteId": "kye86behd",
+                "x": 136,
+                "y": 176,
+                "zIndex": 114,
+                "visible": true
+              },
+              {
+                "id": "bcdtllnrl",
+                "spriteId": "j0kkevuhm",
+                "x": 128,
+                "y": 176,
+                "zIndex": 115,
+                "visible": true
+              },
+              {
+                "id": "wfykvo9dk",
+                "spriteId": "8qqs5zif0",
+                "x": 144,
+                "y": 176,
+                "zIndex": 116,
+                "visible": true
+              },
+              {
+                "id": "bzanexoa3",
+                "spriteId": "3xokiu5x3",
+                "x": 232,
+                "y": 136,
+                "zIndex": 117,
+                "visible": true
+              },
+              {
+                "id": "x76233jni",
+                "spriteId": "53adrr2um",
+                "x": 136,
+                "y": 208,
+                "zIndex": 118,
+                "visible": true
+              }
+            ],
+            "backgroundColor": "transparent",
+            "zoom": 2
+          }
+        }
+      ],
+      "isExpanded": true
+    },
+    {
+      "id": "udyg5l42c",
+      "name": "Belts",
+      "type": "folder",
+      "children": [
+        {
+          "id": "zdlyjsjtg",
+          "name": "belt-down",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "do1ovwt21",
+            "name": "belt-left Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "8qqs5zif0",
+          "name": "belt-left",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "ncgmc2p4x",
+            "name": "belt-right Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "q55ipt1es",
+          "name": "belt-up",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "pnqal3n4q",
+            "name": "belt",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "j0kkevuhm",
+          "name": "belt-right",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "3qxsapwkw",
+            "name": "belt-left Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "bcbxtw2p1",
+          "name": "belt-right-rown",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "lf4n58il3",
+            "name": "belt-right Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "x6hizok8t",
+          "name": "belt-right-up",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "jpitb9xq3",
+            "name": "belt-right-rown Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "53adrr2um",
+          "name": "belt-left-up",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "4aawowar5",
+            "name": "belt-right-up Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "bh7pqvf69",
+          "name": "belt-left-down",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "8idciauyl",
+            "name": "belt-left-up Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "pl30z0ess",
+          "name": "belt-t-up",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "n83qai0o8",
+            "name": "belt-left-down Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "nm5i8ho7y",
+          "name": "belt-t-right",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "9cwe3tmge",
+            "name": "belt-t-up Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "m8bxyphpt",
+          "name": "belt-t-down",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "y7d7ymckl",
+            "name": "belt-t-right Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "fve6uh1hd",
+          "name": "belt-t-left",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "gri7jwj0f",
+            "name": "belt-t-down Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "3xokiu5x3",
+          "name": "belt-x",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "mscz3sx5j",
+            "name": "belt-t-left Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "9gm49mohb",
+          "name": "belt-splitter-right",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "xe6nawc4f",
+            "name": "belt-splitter",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                true,
+                true,
+                false,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                true,
+                true,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "d63i8uire",
+          "name": "belt-splitter-left",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "jqf6yvrbw",
+            "name": "belt-splitter-right Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                true,
+                true,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                true
+              ],
+              [
+                true,
+                false,
+                false,
+                true,
+                true,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "ri4i4s31a",
+          "name": "belt-splitter-up",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "2pqw5gw29",
+            "name": "belt-splitter-left Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ]
+            ]
+          }
+        },
+        {
+          "id": "kye86behd",
+          "name": "belt-splitter-down",
+          "type": "sprite",
+          "parentId": "udyg5l42c",
+          "spriteData": {
+            "id": "ndcsnpg0b",
+            "name": "belt-splitter-up Copy",
+            "width": 8,
+            "height": 8,
+            "pixels": [
+              [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                false
+              ],
+              [
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ]
+            ]
+          }
+        }
+      ],
+      "isExpanded": true
+    }
+  ],
+  "lastModified": "2025-07-19T17:30:36.813Z",
+  "isModified": false,
+  "activeItemId": "7hb53kfrt"
+}
